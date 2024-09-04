@@ -6,3 +6,5 @@ const WebAES16ByteVector = "123456789@zhdgps"
 
 const LogTcpServerPortStart = 5000
 const LogTcpServerPortEnd = 5100
+
+const WebGGADrawPy = "./result/chartForGga.py"
